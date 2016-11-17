@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<plugin>
+	<info id="ih.plugins.products" parentId="ih.plugins.root" lazyLoad="true"></info>
+  
+  <resource>
+    <script path='./js/Plugins/products/productsPlugin.js'></script>
+    <script path='./js/Plugins/products/ProductsViewController.js'></script>
+    <script path='./js/Plugins/products/ProductsDataModel.js'></script>
+	</resource>
+	
+	<extension-point>
+    <child>./js/Plugins/gantt/</child>
+    <child>./js/Plugins/iAccount/</child>
+    <child>./js/Plugins/ABiao/</child>
+    <child>./js/Plugins/UnderCover/</child>
+    <child>./js/Plugins/ShouYiTong/</child>
+    <child>./js/Plugins/IDota/</child>
+	</extension-point>
+</plugin>

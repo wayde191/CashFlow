@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<plugin>
+	<info id="ih.plugins.journey" parentId="ih.plugins.products" lazyLoad="true"></info>
+    
+    <resource>
+        <script path='./js/Plugins/ABiao/journeyPlugin.js'></script>
+        <script path='./js/Plugins/ABiao/JourneyDataModel.js'></script>
+        <script path='./js/Plugins/ABiao/JourneyViewController.js'></script>
+	</resource>
+	
+	<extension-point>
+	</extension-point>
+</plugin>
