@@ -294,41 +294,41 @@
           {
           "title": "舌尖上的Dota",
           "description": "问Dota谁主沉浮，看我猥琐一刀流",
-          "image": "http://www.ihakula.com/images/logos/product-idota.png",
+          "image": "/CashFlow/images/logos/product-idota.png",
           "link": "http://www.ihakula.com/",
           "duration": "183"
           },
           {
           "title": "收益通",
           "description": "这宝那宝不叫事，统一查看妥妥的",
-          "image": "http://www.ihakula.com/images/logos/product-shouyitong.png",
+          "image": "/CashFlow/images/logos/product-shouyitong.png",
           "link": "http://www.ihakula.com/",
           "duration": "183"
           },
           {
           "title": "谁是卧底007",
           "description": "聚会时刻，谁是卧底007",
-          "image": "http://www.ihakula.com/images/logos/product-undercover.png",
+          "image": "/CashFlow/images/logos/product-undercover.png",
           "link": "http://www.ihakula.com/",
           "duration": "183"
           },
           {
           "title": "Gantts Everything",
           "description": "Don't just make a plan, just do it!",
-          "image": "http://www.ihakula.com/images/product-gantt.png",
+          "image": "/CashFlow/images/product-gantt.png",
           "link": "http://www.ihakula.com/",
           "duration": "183"
           },
           {
           "title": "Life Assistant",
           "description": "Account your life, it is a good life!",
-          "image": "http://www.ihakula.com/images/product-iaccount.png",
+          "image": "/CashFlow/images/product-iaccount.png",
           "duration": "782"
           },
            {
            "title": "阿标旅游",
            "description": "云南品质游，尽在阿标旅游",
-           "image": "http://www.ihakula.com/images/logos/product-abiao.png",
+           "image": "/CashFlow/images/logos/product-abiao.png",
            "link": "http://www.ihakula.com/",
            "duration": "183"
            }

@@ -14,7 +14,7 @@
     plugin.prototype.init = function(){
 //      ih.rootUrl = "http://localhost/ihakula/api/index.php/";
 //      ih.hostRoot = "http://localhost/ihakula/";
-      ih.rootUrl = "http://www.ihakula.com/api/index.php/";
+      ih.rootUrl = "http://www.ihakula.com:9000/api/index.php/";
       ih.hostRoot = "http://www.ihakula.com/";
       this.setupSysConfigurations();
     };
